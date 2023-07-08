@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644886314073",
+    "project_id": "fit-vision-2",
+    "storage_bucket": "fit-vision-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644886314073:android:f116c939fab349b8ebc548",
+        "android_client_info": {
+          "package_name": "com.example.fit_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644886314073-1s43si5bftrtal1jpm63j8upt40384ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTsM8MUYyLiqqlH1MV06aU4TETCHvPHkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644886314073-1s43si5bftrtal1jpm63j8upt40384ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
